@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+	color: gray;
+}
+
+p{
+	text-align: center;
+}
+.fa{
+	font-size: 70px;
+	margin-left: 30px;
+
+}
+
+.fa-star:hover{
+	color: yellow;
+	font-size: 100px;
+	cursor:pointer;
+}
+
+.fa-github:hover{
+	color: purple;
+	font-size: 100px;
+	cursor: pointer;
+}
+
+.fa-paw:hover{
+	color:blue;
+	font-size: 100px;
+	cursor: pointer;
+}
